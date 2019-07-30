@@ -6,7 +6,7 @@
 #include "GameFramework/Actor.h"
 #include "GameProjectile.generated.h"
 
-//UCLASS UParticleSystem;
+UCLASS UParticleSystem;
 
 UCLASS(config=Game)
 class AGameProjectile : public AActor
