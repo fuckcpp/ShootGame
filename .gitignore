@@ -9,8 +9,7 @@
 .settings      
  ##filter databfile¡¢sln file##
 *.mdb  
-*.ldb  
-*.uproject   
+*.ldb    
 ##class file##
 *.com  
 *.class  

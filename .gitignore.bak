@@ -1,7 +1,6 @@
 ##ignore this file##
 /Binaries/ 
 /Intermediate/ 
-/Content/
 /Saved/
 /.vs/
 
@@ -11,8 +10,7 @@
  ##filter databfile¡¢sln file##
 *.mdb  
 *.ldb  
-*.uproject
-*.sln    
+*.uproject   
 ##class file##
 *.com  
 *.class  
